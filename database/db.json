@@ -1,0 +1,30 @@
+{
+    "books": [
+      {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "genre": "Self-help"
+      },
+      {
+        "title": "Diary of a Wimpy Kid",
+        "author": "Jeff Kinney",
+        "genre": "Comic"
+      },
+      {
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert Kiyosaki",
+        "genre": "Personal Finace"
+      },
+      {
+        "title": "Diary of a CEO",
+        "author": "Steven Bartlett",
+        "genre": "Business"
+      },
+      {
+        "title": "Subtle Art of Not Giving a F*ck",
+        "author": "Mark Manson",
+        "genre": "Self-help"
+      }
+    ]
+  }
+  
